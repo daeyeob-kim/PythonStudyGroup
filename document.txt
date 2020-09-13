@@ -1,1 +1,7 @@
 hello
+C:\GitPythonStudyGroup\PythonStudyGroup>git add ~~~.py
+C:\GitPythonStudyGroup\PythonStudyGroup>git commit -m "Add Text FIle [document.txt]"
+-> 업로드가 된 그 시점을 스낵샷 마냥 찍는 것
+C:\GitPythonStudyGroup\PythonStudyGroup>git push
+error: failed to push some refs to
+시 git pull한후 재 git push
